@@ -12,7 +12,7 @@ Map Description:
 > The **first** stage presents both teams with identical obstacles, including a slippery path, a maze, an invisible walkway (inspired from the movie "Indiana Jones and the Last Crusade") and a treacherous minefield. Overcoming these obstacles requires skill and coordination.
 > 
 > In the **second** stage, Humans have the option to either dive or exploit a reactor-building bug to bypass a deadly zone. Meanwhile, the Aliens must overcome hurdles at precise intervals.
-
+> 
 > For the **third** stage, Humans must leap between pillars and evade deadly swinging pendulums, while Aliens expertly leap over acid-filled trenches with precise rhythm.
 > 
 > The **fourth** stage presents Humans with a Jump & Run-style hurdle, featuring vertically moving columns and a rotating bridge. In contrast, Aliens must perform high-altitude jumps, landing and pressing buttons to open doors.
