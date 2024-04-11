@@ -91,10 +91,10 @@ Some textures I have drawn for the map:
 [<img src="meta/preview_textures/11.jpg" width="100"/>](meta/preview_textures/11.jpg)
 
 ## Version History:
-| Version: | Date:        | Status: | Release Build (.pk3):       
-| ------- | ------------- | ------: | -----------------: |
-| 1.0 - 10.0   | 21/06/2012 - 12/05/2013  | stable | :x:        |     
-| 1.1     | 24/07/2024  | final | [💾](https://github.com/Masmblr/map-Mission_Edge_src/releases/tag/v11.0) |
+| Version: | Date:        | Status: |
+| ------- | ------------- | ------: |
+| 1.0 - 10.0   | 21/06/2012 - 12/05/2013  | stable |
+| 1.1     | 24/07/2024  | release |
 
 Info:
 Unfortunately, the source code for the previous versions (1.0 to 10.0) was lost due to hardware failure. As a result, version 11.0 had to be painstakingly reconstructed based on a decompiled version of 10.0.
@@ -179,7 +179,7 @@ textures\mission_edge\torch_wood_human_02.tga <sup>[1](#Credit-1)</sup>
 
 ### Credit-1
 
-[Matthias "Masmblr Peters"](mailto:masmblr@gmail.com) \
+[Matthias "Masmblr" Peters](mailto:masmblr@gmail.com) \
 Content: Map, Textures, Shaders \
 License: [MIT License](https://opensource.org/license/mit/).
 (See "LICENSE" file for more Informations.)
